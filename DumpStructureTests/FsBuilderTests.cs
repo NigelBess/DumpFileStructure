@@ -9,7 +9,7 @@ public sealed class FsBuilderTests
     [TestMethod]
     public void TestBuild()
     {
-        var directory = Path.GetTempPath();
-        var folder = FsBuilder.Build(directory);
+        var directory = new DirectoryInfo(Directory.GetCurrentDirectory());
+        var folder = new Folder(directory, 4);
     }
 }

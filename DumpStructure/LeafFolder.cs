@@ -6,27 +6,23 @@ namespace DumpStructure;
 
 internal class LeafFolder : IFsObject
 {
-    public required string Name { get; init; }
-    public required long SizeBytes { get; init; }
-    public required string ContentsSummary { get; init; }
+    public string Name { get; }
+    public long SizeBytes { get; }
+    public string ContentsSummary { get; }
     public LeafFolder(DirectoryInfo dir)
     {
         Name = dir.Name;
 
-        long size = 0;
-        var files = 0;
-        var dirs = 0;
+        // non-recursive counts: only direct children
+        var filesHere = dir.EnumerateFiles().ToList();
+        var dirsHereCount = dir.EnumerateDirectories().Count();
 
-        foreach (var _ in dir.EnumerateDirectories("*", SearchOption.AllDirectories)) dirs++;
+        // recursive size: this folder + all subfolders
+        SizeBytes = dir
+            .EnumerateFiles("*", SearchOption.AllDirectories)
+            .Sum(f => f.Length);
 
-        foreach (var file in dir.EnumerateFiles("*", SearchOption.AllDirectories))
-        {
-            files++;
-            size += file.Length;
-        }
-
-        SizeBytes = size;
-        ContentsSummary = GenerateContentsSummary(files, dirs);
+        ContentsSummary = GenerateContentsSummary(filesHere.Count, dirsHereCount);
     }
 
     private string GenerateContentsSummary(int files, int directories)

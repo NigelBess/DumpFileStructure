@@ -1,11 +1,17 @@
-﻿namespace DumpStructure;
+﻿using System.IO;
+
+namespace DumpStructure;
 
 public record File : IFsObject
 {
-    public required string Name { get; init; }
-    public required long SizeBytes { get; init; }
-    public string Render()
+    public string Name { get; }
+    public long SizeBytes { get; }
+
+    public File(FileInfo file)
     {
-        throw new NotImplementedException();
+        Name = file.Name;
+        SizeBytes = file.Length;
     }
+
+    public string Render() => $"{Name} - {SizeBytes.ToBytesString()}";
 }
