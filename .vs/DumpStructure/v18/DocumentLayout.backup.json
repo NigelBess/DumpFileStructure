@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Dev\\DumpStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|c:\\dev\\dumpstructure\\dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|solutionrelative:dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,13 +130,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FsBuilderTests.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructureTests\\FsBuilderTests.cs",
               "RelativeDocumentMoniker": "DumpStructureTests\\FsBuilderTests.cs",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructureTests\\FsBuilderTests.cs",
               "RelativeToolTip": "DumpStructureTests\\FsBuilderTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T21:48:36.515Z",
               "EditorCaption": ""
@@ -181,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LeafFolder.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\LeafFolder.cs",
               "RelativeDocumentMoniker": "DumpStructure\\LeafFolder.cs",
@@ -207,13 +207,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Folder.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Folder.cs",
               "RelativeDocumentMoniker": "DumpStructure\\Folder.cs",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Folder.cs",
               "RelativeToolTip": "DumpStructure\\Folder.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T21:29:34.852Z",
               "EditorCaption": ""
@@ -233,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
               "RelativeDocumentMoniker": "DumpStructure\\Program.cs",

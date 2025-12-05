@@ -43,7 +43,7 @@ public record Folder : IFsObject
     public string Render() => string.Join("\n", RenderAsLines());
     private IEnumerable<string> RenderAsEnumerable()
     {
-        yield return $"{Name} - {SizeBytes}";
+        yield return $"{Name} - {SizeBytes.ToBytesString()}";
         var children = Contents.Select(c => c.RenderAsLines()).ToList();
         foreach (var (outerIdx, child) in children.Index())
         {
