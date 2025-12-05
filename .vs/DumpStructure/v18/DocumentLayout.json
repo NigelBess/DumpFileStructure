@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\DumpStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\dumpstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\dumpstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|C:\\Dev\\DumpStructure\\dumpstructure\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-05T01:08:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DumpStructure.csproj",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
+              "RelativeDocumentMoniker": "DumpStructure\\DumpStructure.csproj",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
+              "RelativeToolTip": "DumpStructure\\DumpStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T01:08:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings1.settings",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Settings1.settings",
+              "RelativeDocumentMoniker": "DumpStructure\\Settings1.settings",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Settings1.settings",
+              "RelativeToolTip": "DumpStructure\\Settings1.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-05T01:08:08.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryStructureWriter.cs",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\DirectoryStructureWriter.cs",
+              "RelativeDocumentMoniker": "DumpStructure\\DirectoryStructureWriter.cs",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\DirectoryStructureWriter.cs",
+              "RelativeToolTip": "DumpStructure\\DirectoryStructureWriter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:08:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
+              "RelativeDocumentMoniker": "DumpStructure\\Program.cs",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
+              "RelativeToolTip": "DumpStructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:08:08.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

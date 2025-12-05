@@ -1,0 +1,3 @@
+C:\Dev\DumpStructure\DumpStructure\bin\Release\net8.0-windows\publish\win-x86\DumpStructure.pdb
+C:\Dev\DumpStructure\DumpStructure\bin\Release\net8.0-windows\publish\win-x86\DumpStructure.dll.config
+C:\Dev\DumpStructure\DumpStructure\bin\Release\net8.0-windows\publish\win-x86\DumpStructure.exe
