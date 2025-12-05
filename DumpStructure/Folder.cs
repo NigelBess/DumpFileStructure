@@ -8,14 +8,10 @@ public record Folder : IFsObject
     public long SizeBytes { get; }
     public IReadOnlyCollection<IFsObject> Contents { get; }
 
-    private readonly LeafFolder _asLeafFolder;
-
     public Folder(DirectoryInfo directory, int depth)
     {
         if (depth == 0)
             throw new InvalidOperationException($"{nameof(Folder)} requires a {nameof(depth)} of at least 1. For {nameof(depth)} == 0 use {nameof(LeafFolder)}");
-
-        _asLeafFolder = new(directory);
 
         Name = directory.Name;
 
@@ -47,7 +43,7 @@ public record Folder : IFsObject
     public string Render() => string.Join("\n", RenderAsLines());
     private IEnumerable<string> RenderAsEnumerable()
     {
-        yield return _asLeafFolder.RenderAsLine();
+        yield return $"{Name} - {SizeBytes}";
         var children = Contents.Select(c => c.RenderAsLines()).ToList();
         foreach (var (outerIdx, child) in children.Index())
         {

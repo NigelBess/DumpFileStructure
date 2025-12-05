@@ -33,10 +33,9 @@ internal class LeafFolder : IFsObject
             sb.Append(files.ToCountString("file"));
             if (directories > 0) sb.Append(", ");
         }
-        if (directories > 0) sb.Append(directories.ToCountString("directory", "directories"));
+        if (directories > 0) sb.Append(directories.ToCountString("subfolder"));
         return sb.ToString();
     }
 
-    public List<string> RenderAsLines() => new() { RenderAsLine() };
-    public string RenderAsLine() => $"{Name} (Folder) - {SizeBytes.ToBytesString()} - {ContentsSummary}";
+    public List<string> RenderAsLines() => new() { $"{Name} (Folder) - {ContentsSummary} - {SizeBytes.ToBytesString()}" };
 }

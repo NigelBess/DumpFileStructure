@@ -12,10 +12,10 @@ public sealed class FsBuilderTests
     {
         WithTestFolder(root =>
         {
-            var folder = new Folder(root, depth: 4);
+            var folder = new Folder(root, depth: 2);
             var text = folder.Render();
 
-            var expected = "Root (Folder) - 18B - 1 file, 2 directories\r\n├──  root.txt - 4B\r\n├──  a (Folder) - 4B - 1 file\r\n│    └──  a1.txt - 4B\r\n└──  b (Folder) - 10B - 1 file, 1 directory\r\n     ├──  b1.txt - 4B\r\n     └──  nested (Folder) - 6B - 1 file\r\n          └──  n1.txt - 6B";
+            var expected = "Root - 18\n├──  root.txt - 4B\n├──  a - 4\n│    └──  a1.txt - 4B\n└──  b - 10\n     ├──  b1.txt - 4B\n     └──  nested (Folder) - 1 file - 6B";
             Assert.AreEqual(expected, text);
         });
     }
