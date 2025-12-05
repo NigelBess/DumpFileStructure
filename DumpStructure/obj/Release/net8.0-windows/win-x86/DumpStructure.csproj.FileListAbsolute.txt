@@ -13,3 +13,4 @@ C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\win-x86\DumpStruct
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\win-x86\refint\DumpStructure.dll
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\win-x86\DumpStructure.pdb
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\win-x86\ref\DumpStructure.dll
+C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\win-x86\DumpStructure.sourcelink.json

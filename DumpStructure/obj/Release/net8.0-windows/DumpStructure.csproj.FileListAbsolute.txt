@@ -13,3 +13,4 @@ C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\refint\DumpStructu
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\DumpStructure.pdb
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\DumpStructure.genruntimeconfig.cache
 C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\ref\DumpStructure.dll
+C:\Dev\DumpStructure\DumpStructure\obj\Release\net8.0-windows\DumpStructure.sourcelink.json

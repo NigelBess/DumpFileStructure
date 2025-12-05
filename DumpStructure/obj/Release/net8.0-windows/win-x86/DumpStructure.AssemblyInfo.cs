@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumpStructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23a124964494f176d81fa4cf8efc8eeebfa938f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DumpStructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumpStructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
