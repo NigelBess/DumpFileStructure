@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\DumpStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD264DC9-F2EB-461E-94DC-F4D04FC1ED11}|DumpStructureCLI\\DumpStructureCLI.csproj|c:\\dev\\dumpstructure\\dumpstructurecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD264DC9-F2EB-461E-94DC-F4D04FC1ED11}|DumpStructureCLI\\DumpStructureCLI.csproj|solutionrelative:dumpstructurecli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|c:\\dev\\dumpstructure\\dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|solutionrelative:dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD264DC9-F2EB-461E-94DC-F4D04FC1ED11}|DumpStructureCLI\\DumpStructureCLI.csproj|c:\\dev\\dumpstructure\\dumpstructurecli\\dumpstructurecli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD264DC9-F2EB-461E-94DC-F4D04FC1ED11}|DumpStructureCLI\\DumpStructureCLI.csproj|solutionrelative:dumpstructurecli\\dumpstructurecli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\ifsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +19,32 @@
       "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\dumpstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\leaffolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|c:\\dev\\dumpstructure\\dumpstructuretests\\dumpstructuretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|solutionrelative:dumpstructuretests\\dumpstructuretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|c:\\dev\\dumpstructure\\dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6077A0-D4FF-4318-BA89-1B53C7BF6361}|DumpStructureTests\\DumpStructureTests.csproj|solutionrelative:dumpstructuretests\\fsbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -50,15 +54,7 @@
       "RelativeMoniker": "D:0:0:{6681D68E-02CD-40C8-AF1F-7433026E9B73}|Solution Items{6681D68E-02CD-40C8-AF1F-7433026E9B73}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|C:\\Dev\\DumpStructure\\dumpstructure\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -108,7 +104,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "DumpStructureCLI",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructureCLI\\DumpStructureCLI.csproj",
+              "RelativeDocumentMoniker": "DumpStructureCLI\\DumpStructureCLI.csproj",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructureCLI\\DumpStructureCLI.csproj",
+              "RelativeToolTip": "DumpStructureCLI\\DumpStructureCLI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T23:33:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructureCLI\\Program.cs",
+              "RelativeDocumentMoniker": "DumpStructureCLI\\Program.cs",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructureCLI\\Program.cs",
+              "RelativeToolTip": "DumpStructureCLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T23:32:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Helpers.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Helpers.cs",
               "RelativeDocumentMoniker": "DumpStructure\\Helpers.cs",
@@ -127,14 +149,14 @@
               "RelativeDocumentMoniker": "DumpStructureTests\\DumpStructureTests.csproj",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructureTests\\DumpStructureTests.csproj",
               "RelativeToolTip": "DumpStructureTests\\DumpStructureTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-05T21:49:53.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "FsBuilderTests.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructureTests\\FsBuilderTests.cs",
               "RelativeDocumentMoniker": "DumpStructureTests\\FsBuilderTests.cs",
@@ -147,32 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "C:\\Dev\\DumpStructure\\.editorconfig",
-              "RelativeDocumentMoniker": ".editorconfig",
-              "ToolTip": "C:\\Dev\\DumpStructure\\.editorconfig",
-              "RelativeToolTip": ".editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-05T21:48:03.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\App.config",
-              "RelativeDocumentMoniker": "DumpStructure\\App.config",
-              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\App.config",
-              "RelativeToolTip": "DumpStructure\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-05T21:42:50.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "IFsObject.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\IFsObject.cs",
               "RelativeDocumentMoniker": "DumpStructure\\IFsObject.cs",
@@ -185,20 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "LeafFolder.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\LeafFolder.cs",
               "RelativeDocumentMoniker": "DumpStructure\\LeafFolder.cs",
-              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\LeafFolder.cs*",
-              "RelativeToolTip": "DumpStructure\\LeafFolder.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDMAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\LeafFolder.cs",
+              "RelativeToolTip": "DumpStructure\\LeafFolder.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T21:32:32.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "File.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\File.cs",
               "RelativeDocumentMoniker": "DumpStructure\\File.cs",
@@ -211,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Folder.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Folder.cs",
               "RelativeDocumentMoniker": "DumpStructure\\Folder.cs",
@@ -224,28 +221,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "DumpStructure.csproj",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
               "RelativeDocumentMoniker": "DumpStructure\\DumpStructure.csproj",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
               "RelativeToolTip": "DumpStructure\\DumpStructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-05T01:08:08.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
-              "RelativeDocumentMoniker": "DumpStructure\\Program.cs",
-              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
-              "RelativeToolTip": "DumpStructure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T01:08:08.699Z",
               "EditorCaption": ""
             },
             {
@@ -263,7 +247,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Dev\\DumpStructure\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Dev\\DumpStructure\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-05T21:48:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
@@ -284,17 +280,6 @@
               "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-12-05T01:08:08.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Settings1.settings",
-              "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Settings1.settings",
-              "RelativeDocumentMoniker": "DumpStructure\\Settings1.settings",
-              "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Settings1.settings",
-              "RelativeToolTip": "DumpStructure\\Settings1.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-12-05T01:08:08.691Z"
             }
           ]
         },
