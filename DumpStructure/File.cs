@@ -13,5 +13,5 @@ public record File : IFsObject
         SizeBytes = file.Length;
     }
 
-    public string Render() => $"{Name} - {SizeBytes.ToBytesString()}";
+    public List<string> Render() => new() { $"{Name} - {SizeBytes.ToBytesString()}" };
 }

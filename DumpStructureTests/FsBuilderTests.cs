@@ -11,5 +11,6 @@ public sealed class FsBuilderTests
     {
         var directory = new DirectoryInfo(Directory.GetCurrentDirectory());
         var folder = new Folder(directory, 4);
+        var text = folder.Render();
     }
 }
