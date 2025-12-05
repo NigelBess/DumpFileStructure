@@ -8,26 +8,27 @@ internal class LeafFolder : IFsObject
 {
     public string Name { get; }
     public long SizeBytes { get; }
-    public string ContentsSummary { get; }
+    private readonly int _fileCount;
+    private readonly int _subDirCount;
     public LeafFolder(DirectoryInfo dir)
     {
         Name = dir.Name;
 
         // non-recursive counts: only direct children
-        var filesHere = dir.EnumerateFiles().ToList();
-        var dirsHereCount = dir.EnumerateDirectories().Count();
+        _fileCount = dir.EnumerateFiles().ToList().Count;
+        _subDirCount = dir.EnumerateDirectories().Count();
 
         // recursive size: this folder + all subfolders
         SizeBytes = dir
             .EnumerateFiles("*", SearchOption.AllDirectories)
             .Sum(f => f.Length);
-
-        ContentsSummary = GenerateContentsSummary(filesHere.Count, dirsHereCount);
     }
 
-    private string GenerateContentsSummary(int files, int directories)
+    private string GenerateContentsSummary()
     {
         var sb = new StringBuilder();
+        var files = _fileCount;
+        var directories = _subDirCount;
         if (files > 0)
         {
             sb.Append(files.ToCountString("file"));
@@ -37,5 +38,18 @@ internal class LeafFolder : IFsObject
         return sb.ToString();
     }
 
-    public List<string> RenderAsLines() => new() { $"{Name} (Folder) - {ContentsSummary} - {SizeBytes.ToBytesString()}" };
+    public List<string> RenderAsLines() => new() { Render() };
+
+    private string Render()
+    {
+        var sb = new StringBuilder();
+        sb.Append($"{Name} (Folder)");
+        var totalItemCount = _fileCount + _subDirCount;
+        if (totalItemCount > 0)
+        {
+            sb.Append($" - {GenerateContentsSummary()}");
+        }
+        sb.Append($" - {Helpers.FolderSizeString(SizeBytes, totalItemCount)}");
+        return sb.ToString();
+    }
 }

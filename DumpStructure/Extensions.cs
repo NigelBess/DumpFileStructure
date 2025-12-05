@@ -4,7 +4,6 @@ public static class Extensions
 {
     public static string ToBytesString(this long value)
     {
-        if (value == 0) return "Empty";
         const long factor = 1024;
         const long kb = factor;
         const long mb = kb * factor;
