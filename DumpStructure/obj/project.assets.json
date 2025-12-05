@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
-      "projectName": "DumpStructure",
-      "projectPath": "C:\\Dev\\DumpStructure\\DumpStructure\\DumpStructure.csproj",
+      "projectUniqueName": "C:\\Dev\\DumpStructure\\DumpStructure\\FileDump.csproj",
+      "projectName": "FileDump",
+      "projectPath": "C:\\Dev\\DumpStructure\\DumpStructure\\FileDump.csproj",
       "packagesPath": "C:\\Users\\NigelBess\\.nuget\\packages\\",
       "outputPath": "C:\\Dev\\DumpStructure\\DumpStructure\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-﻿namespace DumpStructure;
+﻿namespace FileStructureDump;
 
 public static class Extensions
 {

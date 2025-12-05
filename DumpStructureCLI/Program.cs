@@ -1,4 +1,4 @@
-﻿using DumpStructure;
+﻿using FileStructureDump;
 using System.IO;
 using System.Text;
 using System.Windows;

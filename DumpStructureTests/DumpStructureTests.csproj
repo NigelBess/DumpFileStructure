@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DumpStructure\DumpStructure.csproj" />
+    <ProjectReference Include="..\DumpStructure\FileDump.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace DumpStructure;
+﻿namespace FileStructureDump;
 
 internal record File : IFsObject
 {

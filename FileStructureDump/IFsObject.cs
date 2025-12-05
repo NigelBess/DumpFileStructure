@@ -1,4 +1,4 @@
-﻿namespace DumpStructure;
+﻿namespace FileStructureDump;
 
 public interface IFsObject
 {

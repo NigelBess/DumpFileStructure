@@ -1,8 +1,6 @@
-﻿
-using System.IO;
-using System.Text;
+﻿using System.Text;
 
-namespace DumpStructure;
+namespace FileStructureDump;
 
 internal class LeafFolder : IFsObject
 {

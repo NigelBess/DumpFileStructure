@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace DumpStructure;
+﻿namespace FileStructureDump;
 
 public record Folder : IFsObject
 {
