@@ -43,16 +43,23 @@ public record Folder : IFsObject
         SizeBytes = size;
     }
 
-    public List<string> Render() => RenderAsEnumerable().ToList();
-    }
-
+    public List<string> RenderAsLines() => RenderAsEnumerable().ToList();
+    public string Render() => string.Join("\n", RenderAsLines());
     private IEnumerable<string> RenderAsEnumerable()
     {
-        yield return _asLeafFolder.Render().First();
-        var children = Contents.Select(c => c.Render()).ToList();
-        foreach (var (idx, child) in children.Index())
+        yield return _asLeafFolder.RenderAsLine();
+        var children = Contents.Select(c => c.RenderAsLines()).ToList();
+        foreach (var (outerIdx, child) in children.Index())
         {
-            var isLast = idx == children.Count - 1;
+            var isLast = outerIdx == children.Count - 1;
+            var firstLineStart = isLast ? "└── " : "├── ";
+            var nonFirstLineStart = isLast ? "    " : "│   ";
+            foreach (var (innerIdx, childSubStr) in child.Index())
+            {
+                var lineStart =
+                    innerIdx == 0 ? firstLineStart : nonFirstLineStart;
+                yield return $"{lineStart} {childSubStr}";
+            }
         }
 
     }

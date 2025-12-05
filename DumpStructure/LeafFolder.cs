@@ -37,6 +37,6 @@ internal class LeafFolder : IFsObject
         return sb.ToString();
     }
 
-    public List<string> Render() => new() { RenderAsLine() };
+    public List<string> RenderAsLines() => new() { RenderAsLine() };
     public string RenderAsLine() => $"{Name} (Folder) - {SizeBytes.ToBytesString()} - {ContentsSummary}";
 }

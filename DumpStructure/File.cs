@@ -2,7 +2,7 @@
 
 namespace DumpStructure;
 
-public record File : IFsObject
+internal record File : IFsObject
 {
     public string Name { get; }
     public long SizeBytes { get; }
@@ -13,5 +13,5 @@ public record File : IFsObject
         SizeBytes = file.Length;
     }
 
-    public List<string> Render() => new() { $"{Name} - {SizeBytes.ToBytesString()}" };
+    public List<string> RenderAsLines() => new() { $"{Name} - {SizeBytes.ToBytesString()}" };
 }
