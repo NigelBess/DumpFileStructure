@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\DumpStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|solutionrelative:dumpstructure\\directorystructurewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEE140CF-486A-4D33-8D03-E1039DD95125}|DumpStructure\\DumpStructure.csproj|c:\\dev\\dumpstructure\\dumpstructure\\dumpstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,7 +75,6 @@
               "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAowIwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-12-05T01:08:08.554Z"
             },
@@ -105,26 +104,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DirectoryStructureWriter.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\DirectoryStructureWriter.cs",
               "RelativeDocumentMoniker": "DumpStructure\\DirectoryStructureWriter.cs",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\DirectoryStructureWriter.cs",
               "RelativeToolTip": "DumpStructure\\DirectoryStructureWriter.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T01:08:08.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
               "RelativeDocumentMoniker": "DumpStructure\\Program.cs",
               "ToolTip": "C:\\Dev\\DumpStructure\\DumpStructure\\Program.cs",
               "RelativeToolTip": "DumpStructure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T01:08:08.699Z",
               "EditorCaption": ""
