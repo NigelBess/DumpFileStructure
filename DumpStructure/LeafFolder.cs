@@ -32,7 +32,7 @@ internal class LeafFolder : IFsObject
     private string GenerateContentsSummary(int files, int directories)
     {
         var sb = new StringBuilder();
-        if (files >= 0)
+        if (files > 0)
         {
             sb.Append(files.ToCountString("file"));
             if (directories > 0) sb.Append(", ");
